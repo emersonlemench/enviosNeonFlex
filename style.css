@@ -35,8 +35,8 @@ form {
 
 .datos {
     background-color: rgb(213, 213, 213);
-    width: 400PX;
-    height: 506px;
+    width: 500PX;
+    height: auto;
 
 }
 .redes{
@@ -84,6 +84,8 @@ div {
 }
 textarea{
     border: none;
+    font-weight: bold;
+    font-size: medium;
 }
 .emblema {
     font-size: small;
@@ -137,6 +139,7 @@ input{
 }
 label{
     margin: 0px 0px 0px 5px;
+    width: 120px;
 }
 #observaciones {
     padding: 3px;
